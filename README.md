@@ -1,3 +1,4 @@
+-- helal --
 ## Gmail Smtp App for Magento2
 Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon Simple Email Service (SES) and other SMTP server. 
 
